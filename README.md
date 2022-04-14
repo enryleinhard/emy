@@ -14,20 +14,20 @@ Introducing Emy a distribution dashboard to optimize routes for reducing carbon 
 
 ### Route Optimization
 
-<img src="./image3.jpg" style="height: 600px"/>
-<img src="./image2.jpg" style="height: 600px"/>
+<img src="./image3.jpg" style="height: 400px"/>
+<img src="./image2.jpg" style="height: 400px"/>
 
 To reduce company costs and CO2 emissions in downstream scope 3 emissions, Emy’s optimizer works by taking into account all shipments orders within the same drop-off date. This is then calculated with the distribution’s company infrastructure of warehouses and stores to produce the optimized distribution route. 
 
 ### Tracking App
 
-<img src="./image5.png" style="height: 600px"/>
+<img src="./image5.png" style="height: 400px"/>
 
 Our service provides easy tracking for each truck on a designated route. The app shows each driver’s designated optimized routes. Furthermore, the tracking data is synced live to the database.
 
 ### Emission Report Dashboard
 
-<img src="./image.jpg" style="height: 600px"/>
+<img src="./image.jpg" style="height: 400px"/>
 
 We provide dashboard reports which show the CO2 emission of each truck and route With Emy, enterprises can easily view and download emission shipment data and use it for ESG reporting. 
 
