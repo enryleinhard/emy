@@ -21,6 +21,7 @@ To reduce company costs and CO2 emissions in downstream scope 3 emissions, Emyâ€
 
 ### Tracking App
 
+<img src="./image4.jpeg" style="height: 400px"/>
 <img src="./image5.png" style="height: 400px"/>
 
 Our service provides easy tracking for each truck on a designated route. The app shows each driverâ€™s designated optimized routes. Furthermore, the tracking data is synced live to the database.
